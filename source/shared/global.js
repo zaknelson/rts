@@ -1,0 +1,2 @@
+// global namespace
+rts = {}
